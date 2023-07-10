@@ -1,3 +1,3 @@
 "# ShoeShop" 
-"# ShoeShop, react native expo frontend" 
+"# ShoeShop, react native expo frontend app " 
 "# ShoeShop" 
